@@ -1,6 +1,6 @@
 # BEM for JS talk on CampJS
 
-<img style="float:right;padding: 0 0 10px 10px" src="https://img-fotki.yandex.ru/get/17917/158800653.1/0_111ff7_6b7d579c_orig" alt="CampJS III logo" title="CampJS III logo" />
+<img src="https://img-fotki.yandex.ru/get/17917/158800653.1/0_111ff7_6b7d579c_orig" alt="CampJS III logo" title="CampJS III logo"  style="float: right; padding: 0 0 10px 10px;" />
 
 **When**: May 23 — 26, 2014
 
@@ -15,7 +15,7 @@ workshops and sessions](http://campjs.com/#sessions) together with panel discuss
 
 ## BEM for JS
 
-<img style="float:right;padding: 0 0 10px 10px" src="https://img-fotki.yandex.ru/get/16100/158800653.1/0_111ff8_76058a09_orig" alt="Vladimir Grinenko photo for CampJS III" title="Vladimir Grinenko photo for CampJS III" />
+<img src="https://img-fotki.yandex.ru/get/16100/158800653.1/0_111ff8_76058a09_orig" alt="Vladimir Grinenko photo for CampJS III" title="Vladimir Grinenko photo for CampJS III" style="float: right; padding: 0 0 10px 10px;" />
 
 We are more than happy to participate with [a talk](http://campjs.com/#bem) and be a part of a panel discussion.
 

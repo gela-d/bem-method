@@ -1,6 +1,6 @@
 #Хакатон по БЭМ: проект «Картинки» (src2img)
 
-<img style="float: right" src="https://dl.dropboxusercontent.com/u/1122837/src2img.png" alt="фотография офиса Яндекса в Санкт-Петербурге" width="200" title="BEMup в Санкт-Петербурге" />
+<img src="https://dl.dropboxusercontent.com/u/1122837/src2img.png" alt="фотография офиса Яндекса в Санкт-Петербурге" width="200" title="BEMup в Санкт-Петербурге"  style="float: right; padding: 0 0 20px 20px;"/>
 
 Привет, меня зовут [Алексей Кондратов](https://ru.bem.info/authors/kondratov-alexey) и я представлял на хакатоне проект «[src2img](http://src2img.com/)».
 
